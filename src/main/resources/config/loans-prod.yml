@@ -1,0 +1,3 @@
+build:
+  env: prod
+  version: 2.0
